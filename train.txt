@@ -1,0 +1,100 @@
+For the given input:Thearea is 7420, Thebedrooms is 4, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is13300000.
+
+For the given input:Thearea is 8960, Thebedrooms is 4, Thebathrooms is 4, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is12250000.
+
+For the given input:Thearea is 9960, Thebedrooms is 3, Thebathrooms is 2, Themainroad is yes, Theairconditioning is no, Thefurnishingstatus is semi-furnished,the output:'price' is12250000.
+
+For the given input:Thearea is 7500, Thebedrooms is 4, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is12215000.
+
+For the given input:Thearea is 7420, Thebedrooms is 4, Thebathrooms is 1, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is11410000.
+
+For the given input:Thearea is 7500, Thebedrooms is 3, Thebathrooms is 3, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is semi-furnished,the output:'price' is10850000.
+
+For the given input:Thearea is 8580, Thebedrooms is 4, Thebathrooms is 3, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is semi-furnished,the output:'price' is10150000.
+
+For the given input:Thearea is 16200, Thebedrooms is 5, Thebathrooms is 3, Themainroad is yes, Theairconditioning is no, Thefurnishingstatus is unfurnished,the output:'price' is10150000.
+
+For the given input:Thearea is 8100, Thebedrooms is 4, Thebathrooms is 1, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is9870000.
+
+For the given input:Thearea is 5750, Thebedrooms is 3, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is unfurnished,the output:'price' is9800000.
+
+For the given input:Thearea is 13200, Thebedrooms is 3, Thebathrooms is 1, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is9800000.
+
+For the given input:Thearea is 6000, Thebedrooms is 4, Thebathrooms is 3, Themainroad is yes, Theairconditioning is no, Thefurnishingstatus is semi-furnished,the output:'price' is9681000.
+
+For the given input:Thearea is 6550, Thebedrooms is 4, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is semi-furnished,the output:'price' is9310000.
+
+For the given input:Thearea is 3500, Thebedrooms is 4, Thebathrooms is 2, Themainroad is yes, Theairconditioning is no, Thefurnishingstatus is furnished,the output:'price' is9240000.
+
+For the given input:Thearea is 7800, Thebedrooms is 3, Thebathrooms is 2, Themainroad is yes, Theairconditioning is no, Thefurnishingstatus is semi-furnished,the output:'price' is9240000.
+
+For the given input:Thearea is 6000, Thebedrooms is 4, Thebathrooms is 1, Themainroad is yes, Theairconditioning is no, Thefurnishingstatus is semi-furnished,the output:'price' is9100000.
+
+For the given input:Thearea is 6600, Thebedrooms is 4, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is unfurnished,the output:'price' is9100000.
+
+For the given input:Thearea is 8500, Thebedrooms is 3, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is8960000.
+
+For the given input:Thearea is 4600, Thebedrooms is 3, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is8890000.
+
+For the given input:Thearea is 6420, Thebedrooms is 3, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is semi-furnished,the output:'price' is8855000.
+
+For the given input:Thearea is 4320, Thebedrooms is 3, Thebathrooms is 1, Themainroad is yes, Theairconditioning is no, Thefurnishingstatus is semi-furnished,the output:'price' is8750000.
+
+For the given input:Thearea is 7155, Thebedrooms is 3, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is unfurnished,the output:'price' is8680000.
+
+For the given input:Thearea is 8050, Thebedrooms is 3, Thebathrooms is 1, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is8645000.
+
+For the given input:Thearea is 4560, Thebedrooms is 3, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is8645000.
+
+For the given input:Thearea is 8800, Thebedrooms is 3, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is8575000.
+
+For the given input:Thearea is 6540, Thebedrooms is 4, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is8540000.
+
+For the given input:Thearea is 6000, Thebedrooms is 3, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is semi-furnished,the output:'price' is8463000.
+
+For the given input:Thearea is 8875, Thebedrooms is 3, Thebathrooms is 1, Themainroad is yes, Theairconditioning is no, Thefurnishingstatus is semi-furnished,the output:'price' is8400000.
+
+For the given input:Thearea is 7950, Thebedrooms is 5, Thebathrooms is 2, Themainroad is yes, Theairconditioning is no, Thefurnishingstatus is unfurnished,the output:'price' is8400000.
+
+For the given input:Thearea is 5500, Thebedrooms is 4, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is semi-furnished,the output:'price' is8400000.
+
+For the given input:Thearea is 7475, Thebedrooms is 3, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is unfurnished,the output:'price' is8400000.
+
+For the given input:Thearea is 7000, Thebedrooms is 3, Thebathrooms is 1, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is semi-furnished,the output:'price' is8400000.
+
+For the given input:Thearea is 4880, Thebedrooms is 4, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is8295000.
+
+For the given input:Thearea is 5960, Thebedrooms is 3, Thebathrooms is 3, Themainroad is yes, Theairconditioning is no, Thefurnishingstatus is unfurnished,the output:'price' is8190000.
+
+For the given input:Thearea is 6840, Thebedrooms is 5, Thebathrooms is 1, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is8120000.
+
+For the given input:Thearea is 7000, Thebedrooms is 3, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is8080940.
+
+For the given input:Thearea is 7482, Thebedrooms is 3, Thebathrooms is 2, Themainroad is yes, Theairconditioning is no, Thefurnishingstatus is furnished,the output:'price' is8043000.
+
+For the given input:Thearea is 9000, Thebedrooms is 4, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is7980000.
+
+For the given input:Thearea is 6000, Thebedrooms is 3, Thebathrooms is 1, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is unfurnished,the output:'price' is7962500.
+
+For the given input:Thearea is 6000, Thebedrooms is 4, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is semi-furnished,the output:'price' is7910000.
+
+For the given input:Thearea is 6550, Thebedrooms is 3, Thebathrooms is 1, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is7875000.
+
+For the given input:Thearea is 6360, Thebedrooms is 3, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is7840000.
+
+For the given input:Thearea is 6480, Thebedrooms is 3, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is unfurnished,the output:'price' is7700000.
+
+For the given input:Thearea is 6000, Thebedrooms is 4, Thebathrooms is 2, Themainroad is yes, Theairconditioning is no, Thefurnishingstatus is semi-furnished,the output:'price' is7700000.
+
+For the given input:Thearea is 6000, Thebedrooms is 4, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is7560000.
+
+For the given input:Thearea is 6000, Thebedrooms is 3, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is semi-furnished,the output:'price' is7560000.
+
+For the given input:Thearea is 6000, Thebedrooms is 3, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is7525000.
+
+For the given input:Thearea is 6600, Thebedrooms is 3, Thebathrooms is 1, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is furnished,the output:'price' is7490000.
+
+For the given input:Thearea is 4300, Thebedrooms is 3, Thebathrooms is 2, Themainroad is yes, Theairconditioning is no, Thefurnishingstatus is unfurnished,the output:'price' is7455000.
+
+For the given input:Thearea is 7440, Thebedrooms is 3, Thebathrooms is 2, Themainroad is yes, Theairconditioning is yes, Thefurnishingstatus is semi-furnished,the output:'price' is7420000.
+
